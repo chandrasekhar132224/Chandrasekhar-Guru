@@ -7,11 +7,13 @@ Portfolio:
 💼 About Me
 A highly driven Full-stack Software Engineer with 5+ years of experience building scalable systems using Python, ReactJS, cloud technologies (AWS and Azure), microservices, and AI/ML automation. Developed high-performance backend services, serverless workflows, and data-driven solutions for banking and enterprise platforms.
 Technical Skills:
+
 Backend Development
 Languages: Python, JavaScript, SQL, HTML, CSS, JSON, YAML  
 Frameworks: Flask, FastAPI, Django, Node.js  
 Databases: MySQL, PostgreSQL, MongoDB, DynamoDB, Redis  
 Architecture: Microservices, REST APIs, Serverless, Event-Driven Systems
+
 ☁️ Cloud & DevOps
 AWS: EC2, S3, Lambda, RDS, IAM, SNS, API Gateway  
 CI/CD: GitHub Actions, Jenkins  
@@ -23,10 +25,12 @@ Forecasting: ARIMA, Time Series Models
 NLP: Recommendation Systems, Embeddings  
 Data Tools: Pandas, NumPy, Scikit-Learn  
 ML Pipelines: Data Processing → Model Training → API → UI Integration
+
 Frontend Development
 React.js, Bootstrap, JavaScript ES6, Responsive UI
 Testing & Code Quality
 PyTest, Postman, API Testing, Debugging, Optimization, Documentation
+
 Work Experience:
 Associate Software Engineer | Capital One | May 2024 - Present | Tampa, FL.
 Developed and optimized secure financial microservices using Python, Flask, FastAPI, and AWS for Capital One’s high-volume transaction systems.
