@@ -34,8 +34,9 @@ Precious Metal Price Forecasting (Time Series) Implemented ARIMA-based price pre
 
 Multimedia Recommendation Engine (NLP) Built a content-recommendation system using web scraping, text preprocessing, embedding generation, and cosine similarity. Delivered >95% accuracy. Created FastAPI services for recommendation delivery and containerized the system for deployment.
 
-🌐 Links & Contact: GitHub: Chandrasekhar-Guru
+🌐 Links & Contact: GitHub: https://github.com/chandrasekhar132224
 Portfolio:
-LinkedIn: Email: chandrasekharguru301@gmail.com Phone: +1 9453605902
+LinkedIn:https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a
+Email: chandrasekharguru301@gmail.com Phone: +1 9453605902
 
 Feel free to explore my repositories and connect if you'd like to collaborate on full-stack applications, machine learning systems, or cloud-based solutions!
