@@ -1,4 +1,4 @@
-Hi there 👋 👨‍💻 I am Chandrasekhar Guru| Software Engineer | Full Stack Developer | Python | FastAPI | Django | ReactJS | SQL | Cloud | AI/ML | Gen AI | Computer Vision | LinkedIn: https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a GitHub: Portfolio:
+Hi there 👋 👨‍💻 I am Chandrasekhar Guru| Software Engineer | Full Stack Developer | Python | FastAPI | Django | ReactJS | SQL | Cloud | AI/ML | Gen AI | Computer Vision | LinkedIn: https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a GitHub:https://github.com/chandrasekhar132224 Portfolio:
 
 💼 About Me A highly driven Full-stack Software Engineer with 5+ years of experience building scalable systems using Python, ReactJS, cloud technologies (AWS and Azure), microservices, and AI/ML automation. Developed high-performance backend services, serverless workflows, and data-driven solutions for banking and enterprise platforms. Technical Skills:
 
