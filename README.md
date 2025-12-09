@@ -1,4 +1,4 @@
-Hi there 👋 👨‍💻 I am Chandrasekhar Guru| Software Engineer | Full Stack Developer | Python | FastAPI | Django | ReactJS | SQL | Cloud | AI/ML | Gen AI | Computer Vision | LinkedIn: https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a GitHub:https://github.com/chandrasekhar132224 Portfolio:
+Hi there 👋 👨‍💻 I am Chandrasekhar Guru| Software Engineer | Full Stack Developer | Python | FastAPI | Django | ReactJS | SQL | Cloud | AI/ML | Gen AI | Computer Vision | LinkedIn: https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a GitHub:https://github.com/chandrasekhar132224 
 
 💼 About Me A highly driven Full-stack Software Engineer with 5+ years of experience building scalable systems using Python, ReactJS, cloud technologies (AWS and Azure), microservices, and AI/ML automation. Developed high-performance backend services, serverless workflows, and data-driven solutions for banking and enterprise platforms. Technical Skills:
 
@@ -35,7 +35,6 @@ Precious Metal Price Forecasting (Time Series) Implemented ARIMA-based price pre
 Multimedia Recommendation Engine (NLP) Built a content-recommendation system using web scraping, text preprocessing, embedding generation, and cosine similarity. Delivered >95% accuracy. Created FastAPI services for recommendation delivery and containerized the system for deployment.
 
 🌐 Links & Contact: GitHub: https://github.com/chandrasekhar132224
-Portfolio:
 LinkedIn:https://www.linkedin.com/in/chandrasekhar-guru-b15a2225a
 Email: chandrasekharguru301@gmail.com Phone: +1 9453605902
 
